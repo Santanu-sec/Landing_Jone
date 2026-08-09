@@ -1,0 +1,2 @@
+variable "rsgroup" {}
+variable "sbnets" {}
