@@ -1,0 +1,11 @@
+rggroup = {
+  rgtd1 = {
+    name     = "rg-tum"
+    location = "west us"
+  }
+
+  rgtd2 = {
+    name     = "rg-hum"
+    location = "east us"
+  }
+}
